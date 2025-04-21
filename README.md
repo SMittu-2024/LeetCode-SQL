@@ -4,5 +4,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0595-big-countries](https://github.com/SMittu-2024/LeetCode-SQL/tree/master/0595-big-countries) |
 | [1908-recyclable-and-low-fat-products](https://github.com/SMittu-2024/LeetCode-SQL/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
